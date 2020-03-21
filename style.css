@@ -1,0 +1,41 @@
+
+
+.body{
+  background-color: #617be3;
+}
+
+
+.pufferpic{
+  width: 70%;
+  margin-left: 14%;
+}
+.title{
+  color: white;
+  font-size:  340%;
+  line-height: 1.6;
+  padding-bottom: 20px;
+  padding-top: 3%;
+  padding-left: 3%;
+  font-family: Itim, cursive;
+  font-weight: bolder;
+
+}
+
+.container{
+  margin-top: 100px;
+  background-color: #4a69bb;
+}
+
+.getlayed{
+margin-bottom: 10%;
+}
+
+
+.navbar-brand{
+  padding-left: 6%;
+  font-family: Abril Fatface, cursive;
+}
+
+.nav-item{
+  padding: 0 5%;
+}
