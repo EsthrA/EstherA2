@@ -28,7 +28,7 @@
 
 .getlayed{
 margin-bottom: 10%;
-margin-left: 4%;
+margin-left: 2%;
 }
 
 
@@ -39,4 +39,15 @@ margin-left: 4%;
 
 .nav-item{
   padding: 0 5%;
+}
+
+@media (max-width: 800px){
+  #top{
+    text-align: center;
+  }
+  .pufferpic{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 }
